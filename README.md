@@ -4,7 +4,7 @@ CI/CD study project
 
 [vue + vite](https://ko.vuejs.org/guide/quick-start.html#creating-a-vue-application)
 docker
-jenkins
+jenkins (docker in docker)
 
 on [OCI](https://www.oracle.com/kr/cloud/)
 
