@@ -1,6 +1,6 @@
 # vue-project
 
-CI/CD study project!
+CI/CD study project
 
 [vue + vite](https://ko.vuejs.org/guide/quick-start.html#creating-a-vue-application)
 docker
